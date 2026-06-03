@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 😄 Role: Aspiring IT Support Specialist & Network Administrator.
-- 🔭 Current Project: Building an Active Directory Password Reset Lab – implementing secure user management and GPO policies.
+- 😄 Role: Aspiring Network Administrator
+- 🔭 Current Project: Open VPN secure on serwer
 - 🌱 Learning: Currently completing the Google IT Support Professional Certificate to solidify my foundations in networking, OS administration, and security.
 - ⚡ Goal: I love troubleshooting complex system issues and optimizing network performance.
 <!--
