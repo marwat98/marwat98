@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 😄 Role: 
 - 🔭 Current Project: Production Manager – An application designed to streamline production planning, resource scheduling, and daily logistic operations.
 - ⚡ Goal: I love troubleshooting complex system issues and optimizing network performance.
 <!--
