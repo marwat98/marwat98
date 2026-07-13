@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 😄 Role: Aspiring Network Administrator
-- 🔭 Current Project: Open VPN secure on serwer
-- 🌱 Learning: Currently completing the Google IT Support Professional Certificate to solidify my foundations in networking, OS administration, and security.
+- 😄 Role: 
+- 🔭 Current Project: Production Manager – An application designed to streamline production planning, resource scheduling, and daily logistic operations.
 - ⚡ Goal: I love troubleshooting complex system issues and optimizing network performance.
 <!--
 **marwat98/marwat98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
