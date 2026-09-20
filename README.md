@@ -1,18 +1,13 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-- 🔭 Current Project: Production Manager – An application designed to streamline production planning, resource scheduling, and daily logistic operations.
-- ⚡ Goal: I love troubleshooting complex system issues and optimizing network performance.
-<!--
-**marwat98/marwat98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I work as a **Logistics Specialist and Production Planner**.  
+I have been passionate about **IT and computers for many years**, constantly developing my knowledge and practical skills.
 
-Here are some ideas to get you started:
+My current goal is to grow in the field of **network administration and IT support**.  
+I enjoy solving computer-related problems, configuring systems and helping others with technical issues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
